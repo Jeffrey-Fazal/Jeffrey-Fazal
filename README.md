@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jeffrey-Fazal
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning softwae engineering
+- 💞️ I’m looking to collaborate on business apps
+- 📫 How to reach me email via contactme+git@jeffreyfazal.com
