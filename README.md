@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeffrey-Fazal
-- 🏢 I'm the founder of [Creativus Design](creativus-design.com)
+- 🏢 I'm the founder of [Creativus Design](https://creativus-design.com)
 - 👀 I’m interested in technology
 - 🌱 I’m currently exploring AI
 - 💞️ I’m looking to collaborate on business apps
